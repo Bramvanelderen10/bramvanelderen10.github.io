@@ -1,0 +1,373 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201906 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.bramvanelderen.nl.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2000                
+POS_TIME 2662                
+POS_VISITOR 8064                
+POS_DAY 9220                
+POS_DOMAIN 3321                
+POS_LOGIN 3624                
+POS_ROBOT 3779                
+POS_WORMS 4392                
+POS_EMAILSENDER 4523                
+POS_EMAILRECEIVER 4666                
+POS_SESSION 9605                
+POS_SIDER 9752                
+POS_FILETYPES 4801                
+POS_DOWNLOADS 4957                
+POS_OS 5005                
+POS_BROWSER 5177                
+POS_SCREENSIZE 5669                
+POS_UNKNOWNREFERER 5743                
+POS_UNKNOWNREFERERBROWSER 5929                
+POS_ORIGIN 6040                
+POS_SEREFERRALS 6176                
+POS_PAGEREFS 6320                
+POS_SEARCHWORDS 6468                
+POS_KEYWORDS 6620                
+POS_MISC 2326                
+POS_ERRORS 6679                
+POS_CLUSTER 3480                
+POS_SIDER_404 6770                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190629173116 9 1404 14963993261408
+FirstTime 0
+LastTime 20190628212222
+LastUpdate 20190630020558 9 0 9 0 0
+TotalVisits 29                  
+TotalUnique 27                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 28                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 30 6689112 14 24 38765
+1 0 0 0 8 12 13598
+2 0 0 0 1 1 2205
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 3 3 7665
+7 1 1 9153 11 20 29527
+8 2 14 6231655 19 28 54896
+9 2 28 6684433 9 15 14239
+10 0 0 0 8 25 106024
+11 7 7 9341 15 36 108323
+12 66 104 7050798 15 37 116873
+13 0 0 0 10 28 105316
+14 0 0 0 8 19 26277
+15 0 0 0 14 27 39760
+16 21 33 307899 14 55 6512766
+17 5 31 6714439 27 40 588319
+18 1 1 2261 6 15 17030
+19 0 0 0 24 42 104687
+20 0 0 0 6 11 18985
+21 4 4 16466 16 31 97855
+22 1 1 2452 14 22 36317
+23 0 0 0 31 37 45822
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 92 142 7365535
+unknown 10 10 41380
+nl 8 98 26287913
+cn 2 2 18468
+fr 1 1 2452
+gb 1 1 2261
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+Googlebot/ 67 439297 20190625151001 0
+AhrefsBot/ 62 165051 20190629163156 0
+bingbot/ 43 7049018 20190624080317 0
+BLEXBot/ 30 77244 20190614171456 0
+SemrushBot/ 27 73674 20190628092008 0
+SeznamBot/ 25 0 20190629131510 0
+YandexBot/ 18 42387 20190626005224 0
+CCBot/ 8 19795 20190613145338 0
+no_user_agent 3 7109 20190620110954 0
+python 3 7356 20190624121506 0
+Applebot/ 2 4890 20190629173116 0
+netcraft 2 18630 20190606135133 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 9116 20190601103842 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+png 68 31871097 0 0
+css 45 185466 0 0
+ttf 5 944462 0 0
+html 109 306734 0 0
+js 27 410250 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+ios_iphone 29 3
+linuxandroid 41 3
+win10 34 8
+win7 30 4
+macosx11 92 80
+macosx10 2 2
+linux 24 12
+Unknown 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 22
+mozilla 5 5
+chrome58.0.3029.110 2 2
+chrome75.0.3770.101 12 0
+chrome50.0.2661.102 18 18
+firefox42.0 1 1
+Unknown 1 1
+firefox66.0 1 1
+chrome71.0.3578.98 1 1
+chrome66.0.3359.181 1 1
+firefox65.0 2 2
+firefox52.0 72 60
+chrome75.0.3770.100 28 2
+chrome41.0.2228.0 28 2
+firefox64.0 3 3
+netscape5.0 2 2
+chrome68.0.3440.75 1 1
+chrome76.0.3803.0 14 2
+safari12.1 29 3
+firefox47.0 2 2
+chrome74.0.3729.131 1 1
+chrome40.0.2214.93 1 1
+chrome75.0.3770.89 29 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20190612112051
+okhttp/3.14.2 20190626114709
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+okhttp/3.14.2 20190626114709
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 107 145
+From1 0 0
+From2 0 0
+From3 0 0
+From4 7 109
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 223 171682
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 37
+/store/downloader/index.php 1 -
+/shop/errors/503.php 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 3 -
+/admin/images/cal_date_over.gif 3 -
+/connectors/system/phpthumb.php 1 -
+/a 4 -
+/magento/errors/503.php 1 -
+/wordpress/wp-admin/install.php 1 -
+/rss/order/new/ 1 -
+/util/login.aspx 1 -
+/downloader/ 1 -
+/admin/ 1 -
+/rss/catalog/notifystock/ 1 -
+/magento/index.php/admin/ 1 -
+/magento_version 1 -
+/vendor/phpunit/phpunit/src/util/php/kill.php 1 -
+/feed/ 1 -
+/sitemap.xml 6 -
+/admin/login.php 3 -
+/.env 1 -
+/index.php/admin/ 4 -
+/magento/downloader/index.php 1 -
+//wp-login.php 2 -
+/templates/system/css/system.css 3 -
+/store/index.php/admin/ 1 -
+/robots.txt 144 -
+/shop/downloader/index.php 1 -
+/wp-login.php 15 -
+/errors/503.php 4 -
+/.well-known/assetlinks.json 4 -
+/shop/index.php/admin/ 1 -
+/google8b823586e4590514.html 1 -
+/vendor/phpunit/phpunit/src/util/php/eval-stdin.php 1 -
+/install.php 1 -
+/,5.157.84.75 1 -
+/downloader/index.php 4 -
+/store/errors/503.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 28
+34.77.73.92 60 72 342971 20190624121501
+54.215.206.94 18 18 25468 20190616165507
+84.241.194.176 3 29 6687172 20190606122008
+84.241.196.82 3 29 6703081 20190613173657
+54.153.108.248 2 14 273315 20190616165456
+83.86.111.46 2 40 12897660 20190625002818
+35.229.37.16 2 2 2210 20190628111043
+60.191.38.77 2 2 18468 20190603085048
+104.196.155.9 2 2 2210 20190628112707
+178.159.127.39 2 2 18232 20190624085853
+69.171.251.8 1 9 2504679 20190625095323
+69.171.251.24 1 12 2336071 20190625095322
+46.105.127.166 1 1 2452 20190613213611
+35.240.99.192 1 1 2247 20190626114709
+13.57.59.58 1 1 9116 20190616165450
+69.171.251.43 0 7 1843683 
+54.157.134.73 1 1 2224 20190605124911
+34.207.138.4 1 1 9315 20190609124757
+195.154.183.53 1 1 2452 20190609224401
+173.193.191.205 1 1 2261 20190605213926
+72.14.199.91 1 1 469 20190612112051
+54.91.68.214 1 1 9301 20190628212222
+51.158.73.199 1 1 2261 20190621183934
+34.209.41.231 1 1 2205 20190625114510
+94.198.159.216 2 2 4676 20190604002730
+46.105.99.212 1 1 2452 20190620215706
+167.114.233.118 1 1 2261 20190613174300
+179.61.165.24 1 1 9097 20190621170414
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20190603 2 2 18468 2
+20190604 2 2 4676 1
+20190605 2 2 4485 2
+20190606 3 29 6687172 1
+20190609 2 2 11767 2
+20190612 1 1 469 1
+20190613 5 31 6707794 3
+20190616 21 33 307899 3
+20190620 1 13 6215676 1
+20190621 2 2 11358 2
+20190623 1 1 9116 1
+20190624 61 73 352087 2
+20190625 5 57 13371074 4
+20190626 1 1 2247 1
+20190628 5 5 13721 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 29
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/ 41 139016 26 20
+/tribotsmash.html 8 19973 0 2
+/about.html 6 18222 0 1
+/sphereseeker.html 6 13151 0 0
+/rancharoo.html 6 13511 0 0
+/bumblejumble.html 6 13966 0 0
+/batteryman.html 6 13341 0 0
+/assets/fonts/ionicons.ttf?v=2.0.1 5 944462 1 3
+/qpeeelka.html 4 10324 0 1
+/lillostsquashy.html 4 10140 0 0
+/google4f206df695884def.html 1 469 1 1
+/drunkguy.html 4 10428 0 0
+/featurecreepers.html 4 10684 0 0
+/?fbclid=iwar1sc5gfaaub7bnrmuwrimxzmy4beqmwuns5bpizpqhvz-czwdpsoukbx90 1 2261 1 1
+/innominatedaemon.html 4 10308 0 0
+/neonofancient.html 4 10480 0 0
+/jetegg.html 4 10460 0 0
+END_SIDER

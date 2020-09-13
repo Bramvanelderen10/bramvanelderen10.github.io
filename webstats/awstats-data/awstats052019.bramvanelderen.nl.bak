@@ -1,0 +1,473 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201905 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.bramvanelderen.nl.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2000                
+POS_TIME 2677                
+POS_VISITOR 8757                
+POS_DAY 11586               
+POS_DOMAIN 3376                
+POS_LOGIN 3716                
+POS_ROBOT 3871                
+POS_WORMS 4532                
+POS_EMAILSENDER 4663                
+POS_EMAILRECEIVER 4806                
+POS_SESSION 12261               
+POS_SIDER 12440               
+POS_FILETYPES 4941                
+POS_DOWNLOADS 5120                
+POS_OS 5168                
+POS_BROWSER 5446                
+POS_SCREENSIZE 6261                
+POS_UNKNOWNREFERER 6335                
+POS_UNKNOWNREFERERBROWSER 6530                
+POS_ORIGIN 6680                
+POS_SEREFERRALS 6817                
+POS_PAGEREFS 6991                
+POS_SEARCHWORDS 7239                
+POS_KEYWORDS 7411                
+POS_MISC 2341                
+POS_ERRORS 7490                
+POS_CLUSTER 3572                
+POS_SIDER_404 7581                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190531015007 46 9906 7444758842826
+FirstTime 20190501074428
+LastTime 20190531015007
+LastUpdate 20190531020659 46 0 46 0 0
+TotalVisits 65                  
+TotalUnique 58                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 74                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 2261 11 41 166013
+1 8 14 104077 20 26 62842
+2 0 0 0 3 21 93396
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 6 9 14625
+7 6 6 11883 6 9 12305
+8 4 10 99629 25 36 55081
+9 46 358 80265073 11 30 88033
+10 3 3 6937 11 19 31286
+11 64 82 442601 35 48 53878
+12 2 2 18468 16 26 42833
+13 7 7 29574 18 35 52378
+14 2 2 2224 14 25 36183
+15 7 13 104077 29 45 242338
+16 22 34 310123 14 31 36022
+17 11 67 9590215 24 50 71582
+18 5 31 6715507 9 18 21402
+19 4 4 4448 15 17 34483
+20 5 5 13564 1 7 5157
+21 33 241 53535930 17 39 162106
+22 16 40 6562302 16 32 49806
+23 0 0 0 14 25 36849
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+us 171 663 121118264
+unknown 30 164 29640943
+fr 18 42 416928
+il 16 40 6562302
+cn 5 5 46251
+gb 3 3 20567
+ua 2 2 11377
+it 1 1 2261
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+AhrefsBot/ 72 185247 20190530171640 0
+Googlebot/ 64 309087 20190524090524 0
+SeznamBot/ 43 0 20190530005014 0
+SemrushBot/ 34 94542 20190530124458 0
+YandexBot/ 23 59135 20190530174514 0
+bingbot/ 18 100101 20190528020531 0
+spider 17 130190 20190504005834 0
+CCBot/ 15 38621 20190516141707 0
+python 10 23183 20190526222555 0
+netcraft 3 27746 20190506222517 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 9116 20190525153341 0
+Googlebot\-Image/ 1 183339 20190505153907 0
+LinkedInBot/ 2 4904 20190523173610 0
+no_user_agent 1 9116 20190519082531 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+jpg 1 73713 0 0
+ttf 23 4343755 0 0
+js 105 1590123 0 0
+html 223 598184 0 0
+png 334 150249820 0 0
+css 234 963298 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+linuxubuntu 2 0
+linux 580 99
+macosx 58 6
+win8.1 3 1
+Unknown 3 2
+macosx9 8 4
+linuxandroid 60 4
+macosx10 2 2
+winlong 3 2
+macosx12 2 2
+winxp 1 1
+win8 1 0
+win10 33 7
+macosx11 96 84
+win7 62 30
+macosx6 1 0
+macosx8 5 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 40
+chrome63.0.3239.132 1 1
+firefox25.0 4 3
+chrome52.0.2743.116 1 1
+firefox36.0 3 1
+chrome12.0.742.91 1 0
+msie9.0 1 0
+chrome50.0.2661.102 18 18
+chrome35.0.1916.153 1 1
+chrome74.0.3729.131 1 1
+chrome74.0.3729.169 86 8
+firefox55.0 1 1
+chrome32.0.1700.68 3 0
+Unknown 2 2
+safari6.0.5 2 2
+chrome41.0.2227.0 1 0
+msie7.0 40 16
+msie11.0 2 1
+chrome40.0.2214.93 1 1
+safari6.1 1 0
+firefox31.0 1 0
+firefox52.0 72 60
+chrome31.0.1650.57 6 6
+chrome59.0.3071.104 36 36
+firefox26.0 6 3
+chrome34.0.1847.131 2 2
+chrome61.0.3163.100 3 3
+android 32 2
+mozilla 22 21
+msie10.0 2 0
+chrome46.0.2490.80 1 1
+firefox47.0 5 5
+firefox42.0 2 2
+chrome70.0.3538.67 504 36
+msie11 1 1
+chrome75.0.3738.0 14 2
+netscape5.0 2 2
+firefox58.0 2 2
+chrome74.0.3729.136 28 2
+safari5.1.9 1 0
+chrome31.0.1650.63 8 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Go-http-client/2.0 20190515070928
+Mozilla/5.0_(compatible) 20190518223948
+Go-http-client/1.1 20190510075043
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/2.0 20190515070928
+Go-http-client/1.1 20190510075043
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 201 278
+From1 0 0
+From2 2 2
+From3 3 3
+From4 40 637
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 1 1
+aolcom 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://blog.bramvanelderen.nl 1 1
+http://wp.bramvanelderen.nl 1 1
+http://test.bramvanelderen.nl 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+bramvanelderen.nl 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+bramvanelderen.nl 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 279 194271
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 37
+/innominatedaemon.html 4 -
+/rancharoo.html 4 -
+/cms/wp-login.php 1 -
+/robots.txt 172 -
+/tribotsmash.html 4 -
+/bumblejumble.html 4 -
+/wp/wp-includes/wlwmanifest.xml 1 -
+/blog/wp-includes/wlwmanifest.xml 1 -
+/,5.157.84.75 1 -
+/wp-login.php 23 -
+/neonofancient.html 4 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/featurecreepers.html 4 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/xmlrpc.php 1 -
+/shop/index.php 1 -
+/sitemap.xml 2 -
+/a 4 -
+/sunshop/index.php 1 -
+/batteryman.html 4 -
+/util/login.aspx 1 -
+/user/register/ 1 -
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/admin/ 2 -
+/sphereseeker.html 4 -
+/lillostsquashy.html 4 -
+/ss/index.php 1 -
+/wp/wp-login.php 2 -
+/index.php 4 -
+/drunkguy.html 4 -
+/blog/ 1 http://bramvanelderen.nl/blog/
+/.well-known/assetlinks.json 5 -
+/magento_version 1 -
+/about.html 4 -
+/wp-includes/wlwmanifest.xml 1 -
+/install.php 1 -
+/jetegg.html 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 74
+35.195.31.230 60 72 342972 20190524110039
+13.57.34.19 18 18 25468 20190502165443
+82.80.244.59 15 24 75267 20190518223956
+62.210.202.81 8 20 199258 20190526113036
+62.210.201.91 8 20 199258 20190524010713
+70.162.38.187 6 58 13406757 20190530211321
+60.191.38.77 5 5 46251 20190523125957
+35.224.120.241 4 30 6689149 20190520091500
+35.196.204.24 4 4 4448 20190510194546
+35.202.169.137 4 30 6689149 20190521091647
+116.203.22.185 2 2 18305 20190528173814
+54.70.213.38 1 1 2452 20190515070928
+82.80.249.155 0 2 1248056 
+82.80.249.227 0 2 653111 
+35.237.185.109 2 2 2224 20190531015007 20190531015007 /
+82.80.230.228 0 8 2949826 
+46.160.110.146 1 1 2261 20190503004824
+89.205.227.96 2 28 6700565 20190510183756
+171.13.14.18 0 2 230165 
+54.39.254.241 1 1 9097 20190507212120
+194.63.141.238 1 1 9116 20190518203119
+171.13.14.23 0 1 217200 
+171.13.14.21 0 2 215080 
+82.80.249.133 0 1 271672 
+35.239.93.117 4 30 6689149 20190517090908
+144.168.162.250 2 2 18306 20190513131626
+35.184.49.71 4 30 6689149 20190519091349
+35.224.195.188 4 30 6689149 20190516090900
+34.66.101.12 4 30 6689149 20190519091340
+212.83.146.233 1 1 9315 20190525172924
+13.57.197.115 2 14 273315 20190502165437
+104.196.185.74 2 2 2224 20190514201857
+35.237.116.101 2 2 2224 20190518205013
+35.231.251.188 2 2 2224 20190527012549
+104.196.154.205 2 2 2224 20190506155642
+82.80.249.194 0 1 657314 
+35.225.14.98 4 30 6689149 20190519091408
+155.94.176.180 1 1 2261 20190501074428
+193.93.192.106 1 1 2261 20190529071931
+171.13.14.16 0 2 217976 
+171.13.14.8 0 3 360224 
+195.154.61.206 1 1 9097 20190525172916
+35.193.211.143 4 30 6689149 20190518091228
+82.80.249.164 0 1 704795 
+35.222.121.199 4 30 6689149 20190520211513
+34.66.28.31 4 30 6689150 20190519211422
+35.238.76.126 4 30 6689149 20190517211043
+54.215.191.212 1 1 443 20190517071924
+173.252.127.36 0 8 2147101 
+51.158.120.6 1 1 2261 20190529100304
+35.184.150.92 4 30 6689149 20190519091404
+35.237.242.5 2 2 2224 20190502142614
+35.225.88.97 4 30 6689149 20190522093059
+94.198.159.209 1 1 2224 20190522162956
+104.198.226.191 4 30 6689149 20190518211229
+171.13.14.17 0 3 245275 
+34.73.128.10 2 2 2224 20190522211827
+193.70.34.209 1 1 2261 20190527074515
+171.13.14.20 0 5 402266 
+35.222.191.96 4 30 6689149 20190516210757
+104.154.96.148 4 30 6689149 20190522212134
+54.183.240.172 1 1 9116 20190502165433
+91.210.145.55 4 4 9044 20190519134442
+171.13.14.22 1 7 464290 20190511172540
+171.13.14.19 0 4 273984 
+82.80.249.214 1 1 2261 20190518223939
+35.232.92.41 4 30 6689150 20190519091400
+171.13.14.30 1 3 205781 20190511172054
+54.169.64.122 1 1 2224 20190528153441
+94.198.159.216 4 4 9124 20190517173542
+173.252.127.17 2 13 2638441 20190525092030
+18.237.226.155 1 1 2205 20190510075043
+34.66.190.194 4 30 6689149 20190521211712
+173.252.127.23 0 7 1898891 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20190501 2 2 11576 2
+20190502 25 37 314799 5
+20190503 1 1 2261 1
+20190506 2 2 2224 1
+20190507 1 1 9097 1
+20190510 7 33 6707218 3
+20190511 2 32 2832241 2
+20190512 3 3 20692 2
+20190513 6 12 117935 2
+20190514 2 2 2224 1
+20190515 1 1 2452 1
+20190516 8 60 13378298 2
+20190517 10 62 13380965 4
+20190518 27 103 19951940 6
+20190519 28 184 40143940 7
+20190520 8 60 13378298 2
+20190521 12 70 13477927 3
+20190522 11 63 13382746 4
+20190523 6 32 6724660 2
+20190524 64 82 442601 2
+20190525 4 30 6702845 3
+20190526 4 10 99629 1
+20190527 3 3 4485 2
+20190528 3 3 20529 2
+20190529 2 2 4522 2
+20190530 2 28 6700565 1
+20190531 2 2 2224 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30mn-1h 1
+30s-2mn 2
+0s-30s 60
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 16
+/ 139 387122 64 37
+/assets/fonts/ionicons.ttf?v=2.0.1 23 4343755 0 22
+/qpeeelka.html 9 22605 0 2
+/tribotsmash.html 8 19972 0 1
+/sphereseeker.html 8 18319 0 0
+/about.html 7 21742 0 2
+/rancharoo.html 7 16089 0 0
+/batteryman.html 7 15885 0 0
+/bumblejumble.html 7 16637 0 0
+/drunkguy.html 5 12939 0 0
+/?fbclid=iwar3thaz3aim--vsp-gy92ban1np1cuieumykqhjkdoq_dj8vrrrkoyxtcfk 1 2261 1 0
+/lillostsquashy.html 5 12579 0 0
+/featurecreepers.html 5 13261 0 0
+/innominatedaemon.html 5 12789 0 0
+/jetegg.html 5 12979 0 0
+/neonofancient.html 5 13005 0 0
+END_SIDER
